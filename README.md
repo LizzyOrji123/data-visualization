@@ -21,8 +21,8 @@ Built using **VS Code** on **macOS**, it’s ideal for beginners learning to exp
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-visualization-demo.git
-cd data-visualization-demo
+git clone https://github.com/LizzyOrji123/data-visualization.git
+cd data-visualization
 ```
 
 2. **Install Dependencies**
