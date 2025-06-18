@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-# Load built-in dataset
+# Loading seaborn built-in dataset
 df = sns.load_dataset("tips")
 
 # Line Plot
